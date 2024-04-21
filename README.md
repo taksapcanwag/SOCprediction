@@ -14,7 +14,7 @@ Soil organic carbon (SOC) is a key substance for tackling current challenges inc
 
 ## Contributors
 
-Shoyo Nakamura, Tor-Gunnar Vagen (International Centre for Research in Agroforestry)
+Shoyo Nakamura, Tor-Gunnar Vagen (ICRAF, Nairobi, Kenya)
 
 ## License
 
