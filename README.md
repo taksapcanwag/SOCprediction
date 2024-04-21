@@ -1,5 +1,7 @@
 # An LSTM approach for predicting soil organic carbon content using Landsat-8/9 and Sentinel-1 data
 
+This repository contains data and scripts used for the research internship at the Spatial Data Science and Applied Learning Lab at the International Centre for Research in Agroforestry (ICRAF).
+
 ## Table of Contents
 
 - [About](#about)
